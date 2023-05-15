@@ -1,0 +1,48 @@
+[
+	{
+        "student_id":203016,
+        "student_name":"Ahmed Yousry",
+		"course_id" : 45001,
+        "course_name":"graphics",
+		"final" : 90,
+		"midterm" : 20,
+		"lab" : 19,
+		"gpa" : 3.8,
+        "cgpa":3.8
+		
+	},
+	{
+        "student_id":203116,
+        "student_name":"Salma Ahmed",
+		"course_id" : 2,
+        "course_name":"graphs& network",
+		"final" : 75,
+		"midterm" : 16,
+		"lab" : 15,
+		"gpa" : 2.9,
+		"cgpa" : 3
+	},
+	{
+        "student_id":203018,
+        "student_name":"Nour Khaled",
+		"course_id" : 4170303,
+        "course_name":"Algorithms",
+		"final" : 75,
+		"midterm" : 16,
+		"lab" : 15,
+		"gpa" : 2.9,
+		"cgpa" : 3
+	},
+	{
+        "student_id":203020,
+        "student_name":"Adham mohamed",
+		"course_id" : 4170305,
+		"course_name":"Data Structures",
+		"final" : 90,
+		"midterm" : 20,
+		"lab" : 19,
+		"gpa" : 3.8,
+		"cgpa" : 3.2
+	}
+
+]

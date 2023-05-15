@@ -1,0 +1,25 @@
+[
+	{
+		"id" : 1,
+		"name" : "Nermin Elkahsef",
+		"email" : "nermin@gmail.com",
+		"office_hours" : "Wednesday 11:30 , Saturday 3:30",
+		"contact_num" : 1007992038,
+		"role" : "administrator",
+		"gender":"Female",
+		"password" : "123456788",
+		"passwordConfirm":"123456788"
+	},
+	{
+		"id" : 2,
+		"name" : "Islam Elkabany",
+		"email" : "islam@gmail.com",
+		"office_hours" : "Saturday 1:30",
+		"contact_num" : 1220144633,
+		"gender":"male",
+		"role" : "Professor",
+		"password" : "560348999",
+		"passwordConfirm":"560348999"
+		
+	}
+]

@@ -1,0 +1,15 @@
+
+[
+    {
+        "degree": "Computer Science" ,
+        "prerequistes" : ["c1", "c2", "c3","c4","c5","c6"]
+    },
+    {
+        "degree": "Data Science" ,
+        "prerequistes" : ["c1", "c2", "c4", "c10"] 
+    },
+    {
+        "degree": "Software Engineering" ,
+        "prerequistes" : ["c1", "c2", "c3", "c4","c7","c15"] 
+    }
+]

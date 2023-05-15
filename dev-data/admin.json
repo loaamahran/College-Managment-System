@@ -1,0 +1,18 @@
+[
+	{
+		"admin_id" : 1,
+		"name" : "Farah",
+		"email" : "fahmed@gmail.com",
+		"password" : "55555",
+        "passwordConfirm":"55555",
+		"role" : "Admin"
+	},
+	{
+		"admin_id" : 2,
+		"name" : "Loaa",
+		"email" : "loaamahran@gmail.com",
+		"password" : "12345",
+        "passwordConfirm":"12345",
+		"role" : "Admin"
+	}
+]

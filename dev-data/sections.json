@@ -1,0 +1,16 @@
+[
+	{
+		"section_id" : 1,
+		"name" : "Graphic programming",
+		"lab" : "Lab A",
+		"time" : "saturday 4:6",
+		"maxGroupSize":30
+	},
+	{
+		"section_id" : 2,
+		"name" : "Cloud",
+		"lab" : "Lab B",
+		"time" : "wednesday 2:4",
+		"maxGroupSize":35
+	}
+]

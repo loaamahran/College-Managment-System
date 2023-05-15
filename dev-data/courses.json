@@ -1,0 +1,34 @@
+[
+	{
+		"id" : 4170202,
+		"name" : "Math 4",
+		"description" : "null",
+		"prerequisites" : "4170201",
+		"hall" : 7,
+		"type" : "College requirment",
+		"credits" : 2,
+		"content" : "null"
+	},
+	{
+		"id" : 4170212,
+		"name" : "Scientific technical reporting",
+		"description" : "null",
+		"prerequisites" : "null",
+		"hall" : 3,
+		"type" : "Elective Course",
+		"credits" : 2,
+		"content" : "null",
+		"maxEnrollments":200
+	},
+	{
+		"id" : 4170305,
+		"name" : "Database",
+		"description" : "null",
+		"prerequisites" : "4170204",
+		"hall" : 4,
+		"type" : "Compulosry Course",
+		"credits" : 3,
+		"content" : "null",
+		"maxEnrollments":250
+	}
+]

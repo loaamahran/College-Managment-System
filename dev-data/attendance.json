@@ -1,0 +1,16 @@
+[
+	{
+		"attendance_id" : 1,
+		"student_id" : 203092,
+		"course_id" : 4170202,
+		"section_id" : 1,
+		"date" : "2023-03-05 09:00"
+	},
+	{
+		"attendance_id" : 2,
+		"student_id" : 203101,
+		"course_id" : 4170212,
+		"section_id" : 2,
+		"date" : "2023-03-06 10:00"
+	}
+]

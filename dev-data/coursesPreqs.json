@@ -1,0 +1,98 @@
+[
+    {
+        "code" : "c1",
+        "name":"Programming 1",
+        "prerequisites": []
+        
+    },
+    {
+        "code" : "c2",
+        "name":"Object Oriented Programming",
+        "prerequisites":["c1"]
+    },
+
+    {
+        "code" : "c3",
+        "name":"Data Structures",
+        "prerequisites":["c1","c2" ]
+    },
+
+    {
+        "code" : "c4",
+        "name":"Algorithms",
+        "prerequisites":["c1", "c2","c3"]
+    },
+
+    {
+        "code" : "c5",
+        "name":"Multimedia Systems",
+        "prerequisites":["c2","c1"]
+    },
+
+    {
+        "code" : "c6",
+        "name":"Computer Graphics",
+        "prerequisites":["c5","c2","c1"]
+    },
+
+    {
+        "code" : "c7",
+        "name":"Operating Systems",
+        "prerequisites":["c3","c2","c1"]
+    },
+
+    {
+        "code" : "c8",
+        "name":"Web Programming",
+        "prerequisites":["c2","c1"]
+    },
+
+    {
+        "code" : "c9",
+        "name":"Grapic programming",
+        "prerequisites":["c5","c2","c1"]
+    },
+
+    {
+        "code" : "c10",
+        "name":"Intelligent Systems",
+        "prerequisites":["c2","c1"]
+    },
+
+    {
+        "code" : "c11",
+        "name":"Game Programming",
+        "prerequisites":["c2","c1"]
+    },
+
+    {
+        "code" : "c12",
+        "name":"AI For Games",
+        "prerequisites":["c11","c2","c1"]
+    },
+
+    {
+        "code" : "c13",
+        "name":"Game Design and Modeling",
+        "prerequisites":["c12","c11","c2","c1"]
+    },
+
+    {
+        "code" : "c14",
+        "name":"Computational Tools For Data Science",
+        "prerequisites":["c1"]
+    },
+    
+    {
+        "code" : "c15",
+        "name":"Database",
+        "prerequisites":["c14","c1"]
+    },
+
+    {
+        "code" : "c16",
+        "name":"Advanced Methods for multimedia",
+        "prerequisites":["c5","c2","c1"]
+    }
+
+]

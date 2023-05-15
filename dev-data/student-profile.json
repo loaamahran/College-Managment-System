@@ -1,0 +1,51 @@
+[
+	{
+		"id" : 203062,
+		"name" : "Ahmed",
+		"email" : "ahmed@gmail.com",
+		"contact_num" : 11190920,
+		"age" : 20,
+		"gender" : "male",
+		"password" : "12345678",
+		"passwordConfirm":"12345678",
+		"semester" : 5,
+		"total_acheivments" : 94,
+		"warnings" : "2",
+		"joiningDate" : 2019,
+		"advisers_id" : 54892,
+		"role" : "Student"
+	},
+	{
+		"id" : 203092,
+		"name" : "Farah Ahmed",
+		"email" : "farah@gmail.com",
+		"contact_num" : 11190920110,
+		"age" : 22,
+		"gender" : "female",
+		"password" : "25112000",
+		"passwordConfirm":"25112000",
+		"semester" : 8,
+		"total_acheivments" : 118,
+		"warnings" : "0",
+		"joiningDate" : 2019,
+		"advisers_id" : 54895,
+		"role" : "Student"
+	},
+	{
+		"id" : 203101,
+		"name" : "Loaa Mahran",
+		"email" : "loaametwaly@gmail.com",
+		"contact_num" : 1279206204,
+		"age" : 21,
+		"gender" : "female",
+		"password" : "Loaa.2042001",
+		"passwordConfirm":"Loaa.2042001",
+		"semester" : 8,
+		"total_acheivments" : 118,
+		"warnings" : "0",
+		"joiningDate" : 2019,
+		"advisers_id" : 54895,
+		"role" : "Student"
+	}
+]
+

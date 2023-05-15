@@ -1,0 +1,16 @@
+[
+	{
+		"schedule_id" : 1,
+		"student_id" : 203101,
+		"start_time" : "10:00",
+		"end_time" : "12:00",
+		"day" : "sunday"
+	},
+	{
+		"schedule_id" : 2,
+		"student_id" : 203092,
+		"start_time" : "8:00",
+		"end_time" : "10:00",
+		"day" : "thursday"
+	}
+]

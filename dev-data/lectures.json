@@ -1,0 +1,20 @@
+[
+	{
+		"lecture_id" : 1,
+		"name" : "Graphic programming",
+		"maxGroupSize":80,
+        "professor":"Nermin El kashef",
+		"hall" : "Lab A",
+		"time" : "saturday 4:6"
+        
+	},
+	{
+		"lecture_id" : 2,
+		"name" : "Cloud",
+		"maxGroupSize":80,
+        "professor":"Mohamed El kholy",
+		"hall" : "Lab B",
+		"time" : "wednesday 2:4"
+        
+	}
+]

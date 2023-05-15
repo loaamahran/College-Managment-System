@@ -1,0 +1,31 @@
+{
+  "name": "cms2",
+  "version": "1.0.0",
+  "description": "cms",
+  "main": "app.js",
+  "scripts": {
+    "seed": "node dev-data/import-data.js --import",
+    "delete": "node dev-data/import-data.js --delete",
+    "start:dev": "set NODE_ENV=development&& nodemon server.js",
+    "start:prod": "set NODE_ENV=production&& nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^5.13.16",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21",
+    "supertest": "^6.3.3",
+    "validator": "^13.9.0"
+  }
+}
